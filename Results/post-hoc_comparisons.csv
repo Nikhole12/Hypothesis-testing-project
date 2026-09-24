@@ -1,0 +1,7 @@
+Comparison,Adjusted_P_Value,Cohens_d
+Central vs East,0.049849,-0.198
+Central vs South,0.594885,0.085
+Central vs West,0.010482,-0.252
+East vs South,0.004631,0.285
+East vs West,0.594885,-0.047
+South vs West,0.0004,-0.342

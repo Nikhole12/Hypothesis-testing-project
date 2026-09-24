@@ -1,0 +1,7 @@
+Analysis,Method,Statistic,P_Value,Sample_Size
+East vs West,Paired t-test,-0.1112,0.9122,32
+East vs West,Wilcoxon signed-rank test,252.0,0.832,32
+East vs West,Sign-flip permutation test,,0.9123,32
+East vs West,Cohen's d,-0.0196,,32
+Four-Region Repeated Measures ANOVA,Greenhouse-Geisser corrected RM-ANOVA,7.615,6e-05,301
+Four-Region Repeated Measures ANOVA,Within-customer permutation test,,0.0451,301
