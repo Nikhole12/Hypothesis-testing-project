@@ -1,0 +1,20 @@
+
+# DATA FILES
+Data/*
+!Data/README.md
+
+# PYTHON
+__pycache__/
+*.py[cod]
+
+# JUPYTER
+.ipynb_checkpoints/
+
+# ENVIRONMENT FILES
+.env
+.venv/
+venv/
+
+# OPERATING SYSTEM FILES
+Thumbs.db
+.DS_Store
